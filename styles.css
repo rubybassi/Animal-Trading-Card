@@ -1,14 +1,16 @@
 html {
 	height: 100%;
 }
+
 body{
 	height: 100%; 
-	background: linear-gradient(to right bottom, #8C49CC, #53409F, #272468);
-	padding: 0px;
-	margin: 0px;
+	background: linear-gradient(to right bottom, #8c49cc, #53409f, #272468);
+	padding: 0;
+	margin: 0;
 }
+
 .card-wrapper {
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: "Open Sans Condensed", sans-serif;
 	font-size: 0.9em;
 	color: #fff;
 	background-color: #272468;
@@ -16,35 +18,41 @@ body{
 	margin-top: 60px;
 	padding: 10px;
 	width: 300px;
-	box-shadow: 7px 7px 10px #54689E;
-	border: #4BC4C2 solid 1px;
+	box-shadow: 7px 7px 10px #54689e;
+	border: #4bc4c2 solid 1px;
 	border-radius: 10px;
 }
+
 h3 {
 	font-size: 1.6em;
-	font-family: 'Amatic SC', cursive;
-	margin: 10px 0px;
-	border-bottom: #9D61FC solid 0.5px;
+	font-family: "Amatic SC", cursive;
+	margin: 10px 0;
+	border-bottom: #9d61fc solid 0.5px;
 }
+
 .lion {
 	width: 300px;
 	border-radius: 10px;	
 }
+
 .info-wrapper {
 	background-color: #272468 ;
 	border-radius: 10px;
 	padding: 10px;
-	margin: 20px 0px 10px;
-	border: #4BC4C2 solid 1px;
+	margin: 20px 0 10px;
+	border: #4bc4c2 solid 1px;
 }
+
 .intro-text {
 	font-style: italic;
 }
+
 ul {
 	list-style: none;
 	text-align: left;
-	padding: 0px;
+	padding: 0;
 }
+
 .items {
 	font-weight: bold;
 }
